@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicktrovert
 - 👀 I’m interested in ... Coding, 3D Modelling, Music, Video/Picture Editing, Game Development, Gaming.
-- 🌱 I’m currently learning ... MySQL 😭😭.
+- 🌱 I’m currently learning ... stuff.
 - 💞️ I’m looking to collaborate on ... nothing.
 - 📫 How to reach me ... you dont.
 
