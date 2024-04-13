@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @Nicktrovert
-- 👀 I’m interested in ... Coding, 3D Modelling, Music, Video/Picture Editing, Game Development, Gaming.
-- 🌱 I’m currently learning ... stuff.
-- 💞️ I’m looking to collaborate on ... nothing.
-- 📫 How to reach me ... you dont.
-
-<!---
-Nicktrovert/Nicktrovert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Filius
---->
+[![Nicktroverts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicktrovert&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Nicktroverts/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicktrovert&layout=donut&show_icons=true&theme=synthwave&langs_count=20)](https://github.com/Nicktrovert/github-readme-stats) <br/>
