@@ -1,2 +1,2 @@
-[![Nicktroverts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicktrovert&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Nicktroverts/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicktrovert&layout=donut&show_icons=true&theme=synthwave&langs_count=20)](https://github.com/Nicktrovert/github-readme-stats) <br/>
+[![Nicktroverts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicktrovert&show_icons=true&theme=neon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Nicktroverts/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicktrovert&layout=donut&show_icons=true&theme=neon&langs_count=20)](https://github.com/Nicktrovert/github-readme-stats) <br/>
